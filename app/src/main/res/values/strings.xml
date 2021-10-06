@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Poetry App</string>
+
+
+    <string name="truthqoute">Truth Quote</string>
+    <string name="qoute">Cowards die many times before their deaths; The valiant never taste of death but once.</string>
+</resources>
